@@ -1,0 +1,11 @@
+.custom-dropdown-container .dropdown {
+    padding: 10px;
+}
+
+.custom-dropdown-container .btn {
+    outline: none!important;
+    border: none!important;
+    padding: 5px 20px !important;
+    color: #fff !important;
+    font-weight: bold;
+}
